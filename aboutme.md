@@ -1,16 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+#subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a Marie Curie Early Stage researcher at The Open University, UK working in European Union's Horizon 2020 [QUARTZ](http://www.quartz-itn.eu/) project. My role is to investigate user behaviour in online information interactions and build mathematical models inspired from Quantum Theory. My research interests lie broadly in Computational Social Science, particularly in Behavioural Data Science, which is about using data science techniques to draw insights from, and model human behavioural data. I am interested in predicting behaviours of [System 1](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) type.
