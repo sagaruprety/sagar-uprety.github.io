@@ -20,6 +20,7 @@ title: Sagar Uprety
 
 # List of links in the navigation bar
 navbar-links:
+  About Me: "/aboutme.md"
   Publications:
   Blog:
   Videos:
